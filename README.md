@@ -43,5 +43,3 @@ wget -qO- https://github.com/klever1988/nanopi-openwrt/raw/master/scripts/autoup
 sh /tmp/upload/autoupdate-offline.sh
 ```
 #### 本固件(minimal版本)NAT基准性能测试：
-
-<img src="https://github.com/klever1988/nanopi-openwrt/raw/master/assets/NAT.jpg" width="600" /><img src="https://raw.githubusercontent.com/klever1988/nanopi-openwrt/master/assets/Acc.jpg" width="250" />
