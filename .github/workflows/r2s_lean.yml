@@ -3,6 +3,8 @@ name: r2s Lean版openwrt
 on:
   push:
     branches: [ master ]
+    watch:
+      types: started
     paths:
       - '.github/workflows/r2s_lean.yml'
   schedule:
